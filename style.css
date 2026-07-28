@@ -5,7 +5,7 @@
 }
 body {
   font-family: "Georgia", serif;
-  background: #A94064;
+  background: #DE5D83;
   color: #fff;
   display: flex;
   justify-content: center;
@@ -77,7 +77,7 @@ body {
 }
 .flower-image {
 mix-blend-mode: normal;
-  width: 125px;
+  width: 100px;
   position: absolute;
   bottom: 20px;
   right: 20px;
